@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="600"
+   viewBox="0 0 200 120"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="nu.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10">
+    <clipPath
+       id="a-2">
+      <path
+         d="M 0,0 H 6 V 3 H 0 Z"
+         id="path1-6" />
+    </clipPath>
+    <clipPath
+       id="b-2">
+      <path
+         d="M 0,0 V 1.5 H 6 V 3 Z M 6,0 H 3 V 3 H 0 Z"
+         id="path2-1" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.53828504"
+     inkscape:cx="432.85617"
+     inkscape:cy="764.46487"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="3832"
+     inkscape:window-y="313"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <clipPath
+     id="a">
+    <path
+       d="M 0,0 V 15 H 70 V 30 H 60 Z M 0,30 V 40 H 30 V 0 h 30 z"
+       id="path1" />
+  </clipPath>
+  <path
+     fill="#012169"
+     d="M 0,0 H 200 V 120 H 0 Z"
+     id="path2"
+     style="stroke-width:1.82574" />
+  <path
+     fill="#fedd00"
+     d="M 100,0 H 200 V 120 H 0 V 60 h 100 z"
+     id="path7"
+     style="stroke-width:1.82574" />
+  <path
+     d="M 0,0 6,3 M 6,0 0,3"
+     stroke="#ffffff"
+     stroke-width="0.6"
+     clip-path="url(#a-2)"
+     transform="scale(16.66667,20.000004)"
+     id="path4" />
+  <path
+     d="M 0,0 6,3 M 6,0 0,3"
+     stroke="#e4002b"
+     stroke-width="0.4"
+     clip-path="url(#b-2)"
+     transform="scale(16.66667,20.000004)"
+     id="path5" />
+  <path
+     d="M 50.00001,0 V 60.000011 M 0,30.000005 h 100.00002"
+     stroke="#ffffff"
+     stroke-width="19.4746"
+     id="path6" />
+  <path
+     d="M 50.00001,0 V 60.000011 M 0,30.000005 h 100.00002"
+     stroke="#e4002b"
+     stroke-width="10.9545"
+     id="path7-1" />
+  <g
+     transform="matrix(2,0,0,2,49.999938,30)"
+     id="g10">
+    <g
+       transform="scale(5.1039048)"
+       id="g7">
+      <circle
+         r="1"
+         fill="#012169"
+         id="circle7"
+         cx="0"
+         cy="0" />
+      <path
+         id="b"
+         fill="#fedd00"
+         d="M 0,-513674 301930,415571 -488533,-158734 H 488533 L -301930,415571"
+         transform="matrix(1.94676e-6,0,0,1.94676e-6,0,0)" />
+    </g>
+    <use
+       xlink:href="#b"
+       transform="matrix(3,0,0,3,-17.5,0.29)"
+       id="use7" />
+    <use
+       xlink:href="#b"
+       transform="matrix(3,0,0,3,17.5,0.29)"
+       id="use8" />
+    <use
+       xlink:href="#b"
+       transform="matrix(3,0,0,3,0,10.29)"
+       id="use9" />
+    <use
+       xlink:href="#b"
+       transform="matrix(3,0,0,3,0,-9.71)"
+       id="use10" />
+  </g>
+</svg>

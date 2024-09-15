@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1475.0037"
+   height="885.00854"
+   viewBox="-17.582 -4.664 145.40976 87.246842"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="np.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.34491525"
+     inkscape:cx="137.71499"
+     inkscape:cy="668.2801"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="3832"
+     inkscape:window-y="313"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <rect
+     style="fill:#ffffff;stroke-width:0.384764"
+     id="rect10"
+     width="145.41"
+     height="87.246002"
+     x="-17.581795"
+     y="-4.6636562" />
+  <use
+     xlink:href="#a"
+     stroke="#003893"
+     stroke-width="5.165"
+     id="use1" />
+  <path
+     id="a"
+     d="m -14.999647,37.574344 h 60 l -60,-37.57400012907 V 80.000344 h 60 l -60,-60 z"
+     fill="#dc143c" />
+  <g
+     fill="#ffffff"
+     id="g10"
+     transform="translate(3.525233e-4,3.4387093e-4)">
+    <path
+       d="m -11.95,23.483 a 12.84,12.84 0 0 0 23.9,0 11.95,11.95 0 0 1 -23.9,0"
+       id="path1" />
+    <g
+       transform="matrix(5.56106,0,0,5.56106,0,29.045)"
+       id="g5">
+      <circle
+         r="1"
+         id="circle1"
+         cx="0"
+         cy="0" />
+      <g
+         id="d">
+        <g
+           id="c">
+          <path
+             id="b"
+             d="M 0.195,-0.98 0,-1.39 -0.195,-0.982"
+             transform="rotate(11.25)" />
+          <use
+             xlink:href="#b"
+             transform="rotate(22.5)"
+             id="use2" />
+          <use
+             xlink:href="#b"
+             transform="rotate(45)"
+             id="use3" />
+        </g>
+        <use
+           xlink:href="#c"
+           transform="rotate(67.5)"
+           id="use4" />
+      </g>
+      <use
+         xlink:href="#d"
+         transform="scale(-1,1)"
+         id="use5" />
+    </g>
+    <g
+       transform="matrix(8.1434,0,0,8.1434,0,58.787)"
+       id="g9">
+      <circle
+         r="1"
+         id="circle5"
+         cx="0"
+         cy="0" />
+      <g
+         id="g">
+        <g
+           id="f">
+          <path
+             id="e"
+             d="M 0.259,0.966 0,1.576 -0.259,0.966" />
+          <use
+             xlink:href="#e"
+             transform="scale(-1)"
+             id="use6" />
+        </g>
+        <use
+           xlink:href="#f"
+           transform="rotate(90)"
+           id="use7" />
+      </g>
+      <use
+         xlink:href="#g"
+         transform="rotate(30)"
+         id="use8" />
+      <use
+         xlink:href="#g"
+         transform="rotate(60)"
+         id="use9" />
+    </g>
+  </g>
+</svg>

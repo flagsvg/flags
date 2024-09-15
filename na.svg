@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="600"
+   viewBox="0 0 100 60"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="na.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.254375"
+     inkscape:cx="-1120.3931"
+     inkscape:cy="693.85749"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="3832"
+     inkscape:window-y="313"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="a">
+      <path
+         d="M 0,0 H 90 V 60 H 0 Z"
+         id="path1" />
+    </clipPath>
+  </defs>
+  <path
+     fill="#003580"
+     d="M 0,60 V 0 h 99.999999 z"
+     id="path2"
+     style="stroke-width:1" />
+  <path
+     fill="#009543"
+     d="M 99.999999,0 V 60 H 0 Z"
+     id="path3"
+     style="stroke-width:1" />
+  <g
+     clip-path="url(#a)"
+     id="g5"
+     transform="scale(1.1111111,1)"
+     style="stroke-width:0.948683">
+    <path
+       stroke="#ffffff"
+       stroke-width="18.9737"
+       d="M 0,60 90,0"
+       id="path4" />
+    <path
+       stroke="#d21034"
+       stroke-width="14.2302"
+       d="M 0,60 90,0"
+       id="path5" />
+  </g>
+  <path
+     fill="#ffce00"
+     d="M 18,5.2299 19.725554,9.9021176 23.55555,6.7187874 22.71444,11.627671 27.622213,10.78545 24.439994,14.616557 29.1111,16.341 24.439994,18.066554 27.622213,21.89655 22.71444,21.05544 23.55555,25.964324 19.725554,22.780994 18,27.4521 16.274446,22.780994 12.44445,25.964324 13.28556,21.05544 8.3777874,21.89655 11.560006,18.066554 6.8889,16.341 11.560006,14.616557 8.3777874,10.78545 13.28556,11.627671 12.44445,6.7187874 16.274446,9.9021176 Z"
+     id="path6"
+     style="stroke-width:1" />
+  <circle
+     stroke="#003580"
+     r="6.111105"
+     cx="18"
+     cy="16.341"
+     id="circle6"
+     style="stroke-width:1" />
+</svg>
