@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="600"
+   viewBox="0 0 7875 4725"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="au.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.55960873"
+     inkscape:cx="970.32082"
+     inkscape:cy="654.92188"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="3832"
+     inkscape:window-y="313"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <defs
+     id="defs2">
+    <clipPath
+       id="a">
+      <path
+         d="M 0,0 H 6 V 3 H 0 Z"
+         id="path1" />
+    </clipPath>
+    <clipPath
+       id="b">
+      <path
+         d="M 0,0 V 1.5 H 6 V 3 Z M 6,0 H 3 V 3 H 0 Z"
+         id="path2" />
+    </clipPath>
+    <path
+       id="c"
+       d="M 0,-360 69.421,-144.155 281.459,-224.456 155.99,-35.603 350.975,80.107 125.094,99.758 156.199,324.348 0,160 l -156.198,164.349 31.105,-224.59 -225.881,-19.651 194.986,-115.711 -125.471,-188.853 212.038,80.301 z" />
+    <path
+       id="d"
+       d="M 0,-210 54.86,-75.508 199.722,-64.894 88.765,28.842 123.435,169.894 0,93.334 -123.435,169.894 -88.765,28.842 -199.722,-64.894 -54.86,-75.508 Z" />
+  </defs>
+  <path
+     fill="#012169"
+     d="M 0,0 H 7875 V 4725 H 0 Z"
+     id="path3"
+     style="stroke-width:0.855816" />
+  <path
+     d="M 0,0 6,3 M 6,0 0,3"
+     stroke="#ffffff"
+     stroke-width="0.6"
+     clip-path="url(#a)"
+     transform="scale(656.25,787.5)"
+     id="path4" />
+  <path
+     d="M 0,0 6,3 M 6,0 0,3"
+     stroke="#e4002b"
+     stroke-width="0.4"
+     clip-path="url(#b)"
+     transform="scale(656.25,787.5)"
+     id="path5" />
+  <path
+     d="M 1968.75,0 V 2362.5 M 0,1181.25 h 3937.5"
+     stroke="#ffffff"
+     stroke-width="766.812"
+     id="path6" />
+  <path
+     d="M 1968.75,0 V 2362.5 M 0,1181.25 h 3937.5"
+     stroke="#e4002b"
+     stroke-width="431.332"
+     id="path7" />
+  <g
+     fill="#ffffff"
+     id="g12"
+     transform="scale(0.9375)">
+    <use
+       xlink:href="#c"
+       transform="matrix(2.1,0,0,2.1,2100.0042,3780)"
+       id="use7" />
+    <use
+       xlink:href="#c"
+       x="7560"
+       y="4200"
+       id="use8"
+       transform="translate(-1190.006)" />
+    <use
+       xlink:href="#c"
+       x="6300"
+       y="2205"
+       id="use9"
+       transform="translate(-1190.006)" />
+    <use
+       xlink:href="#c"
+       x="7560"
+       y="840"
+       id="use10"
+       transform="translate(-1190.006)" />
+    <use
+       xlink:href="#c"
+       x="8680"
+       y="1869"
+       id="use11"
+       transform="translate(-1190.006)" />
+    <use
+       xlink:href="#d"
+       x="8064"
+       y="2730"
+       id="use12"
+       transform="translate(-1190.006)" />
+  </g>
+</svg>
