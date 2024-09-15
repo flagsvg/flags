@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="600"
+   fill="none"
+   viewBox="0 0 83.333333 50"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="kn.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.35974058"
+     inkscape:cx="-672.70699"
+     inkscape:cy="568.46521"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="3832"
+     inkscape:window-y="313"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="a">
+      <path
+         d="M 0,0 H 75 V 50 H 0 Z"
+         id="path1" />
+    </clipPath>
+  </defs>
+  <path
+     fill="#009739"
+     d="M 0,50 V 0 h 83.333333 z"
+     id="path2"
+     style="stroke-width:1.05409" />
+  <path
+     fill="#c8102e"
+     d="M 83.333333,0 V 50 H 0 Z"
+     id="path3"
+     style="stroke-width:1.05409" />
+  <g
+     clip-path="url(#a)"
+     id="g5"
+     transform="scale(1.1111111,1)">
+    <path
+       stroke="#ffcd00"
+       stroke-width="21"
+       d="M 0,50 75,0"
+       id="path4" />
+    <path
+       stroke="#000000"
+       stroke-width="15"
+       d="M 0,50 75,0"
+       id="path5" />
+  </g>
+  <path
+     fill="#ffffff"
+     d="m 21.763852,28.627571 11.00187,9.668443 -14.583487,-1.354697 12.594307,-7.475712 -5.795004,13.450848 z m 32.794234,-19.4644583 11.00187,9.6684433 -14.583487,-1.354698 12.59431,-7.47571 -5.795007,13.450847 z"
+     id="path6"
+     style="stroke-width:1.1" />
+</svg>

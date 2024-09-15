@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="600"
+   viewBox="-45 -30 100 60"
+   fill="#2c2c6f"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="in.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.71948115"
+     inkscape:cx="500.36057"
+     inkscape:cy="299.5214"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="3832"
+     inkscape:window-y="313"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     fill="#ffffff"
+     d="M -45,-30 H 55 V 30 H -45 Z"
+     id="path1"
+     style="stroke-width:1.05409" />
+  <path
+     fill="#f15b25"
+     d="M -45,-30 H 55 v 20 H -45 Z"
+     id="path2"
+     style="stroke-width:1.05409" />
+  <path
+     fill="#006934"
+     d="M -45,10 H 55 V 30 H -45 Z"
+     id="path3"
+     style="stroke-width:1.05409" />
+  <circle
+     r="9.7124996"
+     id="circle3"
+     cx="5"
+     cy="0"
+     style="stroke-width:1.05" />
+  <circle
+     fill="#ffffff"
+     r="8.3999996"
+     id="circle4"
+     cx="5"
+     cy="0"
+     style="stroke-width:1.05" />
+  <circle
+     r="1.6800001"
+     id="circle5"
+     cx="5"
+     cy="0"
+     style="stroke-width:1.05" />
+  <g
+     id="d"
+     transform="matrix(1.05,0,0,1.05,5,0)">
+    <g
+       id="c">
+      <g
+         id="b">
+        <g
+           id="a">
+          <path
+             d="M 0,-8 0.3,-3.186 0,-0.802 -0.3,-3.186 Z"
+             id="path5" />
+          <circle
+             transform="rotate(7.5)"
+             r="0.34999999"
+             cy="-8"
+             id="circle6"
+             cx="0" />
+        </g>
+        <use
+           xlink:href="#a"
+           transform="scale(-1)"
+           id="use6" />
+      </g>
+      <use
+         xlink:href="#b"
+         transform="rotate(15)"
+         id="use7" />
+    </g>
+    <use
+       xlink:href="#c"
+       transform="rotate(30)"
+       id="use8" />
+  </g>
+  <use
+     xlink:href="#d"
+     transform="rotate(60,5,1.9868308e-8)"
+     id="use9" />
+  <use
+     xlink:href="#d"
+     transform="rotate(120,5,-2.8377227e-8)"
+     id="use10" />
+</svg>
