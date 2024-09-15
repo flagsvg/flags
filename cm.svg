@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="1000"
+   height="600"
+   viewBox="0 0 10 6"
+   id="svg3"
+   sodipodi:docname="cm.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask5">
+      <rect
+         style="fill:#ffffff;fill-rule:nonzero;stroke-width:0.01"
+         id="rect5"
+         width="2.3657594"
+         height="2.5298584"
+         x="3.1042044"
+         y="1.5589397" />
+    </mask>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.51708333"
+     inkscape:cx="570.50765"
+     inkscape:cy="832.55439"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="3832"
+     inkscape:window-y="313"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3">
+    <inkscape:grid
+       id="grid7"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.01"
+       spacingy="0.01"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <path
+     d="M 0,0 H 10 V 6 H 0 Z"
+     fill="#ce1126"
+     id="path1"
+     style="stroke-width:1.05409" />
+  <path
+     d="M 0,0 H 3.3333333 V 6 H 0 Z"
+     fill="#007a5e"
+     id="path2"
+     style="stroke-width:1.05409" />
+  <path
+     d="M 4.032,3.645 5.258,2.754 H 3.742 L 4.968,3.644 4.5,2.204 Z"
+     fill="#fcd116"
+     id="path3"
+     style="fill-rule:nonzero"
+     mask="url(#mask5)"
+     transform="matrix(1.1111082,0,0,1.11034,1.31156e-5,-0.31206308)"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     d="M 6.6666667,0 H 10 V 6 H 6.6666667 Z"
+     fill="#fcd116"
+     id="path3-4"
+     style="fill-rule:nonzero;stroke-width:1.05409"
+     sodipodi:nodetypes="ccccc" />
+</svg>
