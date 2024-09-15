@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="600"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="tf.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.5"
+     inkscape:cx="437"
+     inkscape:cy="625"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="3832"
+     inkscape:window-y="313"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <defs
+     id="defs1">
+    <path
+       id="a"
+       fill="#ffffff"
+       d="m 0,-1 0.588,1.809 -1.54,-1.118 h 1.904 l -1.54,1.118 z"
+       transform="scale(21)" />
+  </defs>
+  <path
+     fill="#002654"
+     d="M 0,0 H 1000 V 600 H 0 Z"
+     id="path1"
+     style="stroke-width:1.58114" />
+  <path
+     fill="#ffffff"
+     d="M 0,0 H 387.96 V 260.76 H 0 Z"
+     id="path2"
+     style="stroke-width:1.59" />
+  <path
+     fill="#002654"
+     d="M 0,0 H 127.2 V 254.4 H 0 Z"
+     id="path3"
+     style="stroke-width:1.59" />
+  <path
+     fill="#ce1126"
+     d="M 254.4,0 H 381.6 V 254.4 H 254.4 Z"
+     id="path4"
+     style="stroke-width:1.59" />
+  <path
+     fill="#ffffff"
+     d="m 577.01,265.68049 20.47125,32.595 H 655.715 v 113.685 l -43.725,-68.37 -58.83,93.81 h 28.62 l 30.21,-54.06 62.01,111.30001 62.01,-111.30001 30.21,54.06 h 28.62 l -58.83,-93.81 -43.725,68.37 v -62.805 h 26.235 l 19.4775,-31.005 H 692.285 v -19.875 h 58.23375 l 20.47125,-32.595 z m 68.37,139.125 h -63.6 v 22.26 h 63.6 z m 120.84,0 h -63.6 v 22.26 h 63.6 z"
+     id="path5"
+     style="stroke-width:1.59" />
+  <use
+     xlink:href="#a"
+     x="416"
+     y="362"
+     id="use5"
+     transform="matrix(1.59,0,0,1.59,12.56,-25.289505)" />
+  <use
+     xlink:href="#a"
+     x="371"
+     y="328"
+     id="use6"
+     transform="matrix(1.59,0,0,1.59,12.56,-25.289505)" />
+  <use
+     xlink:href="#a"
+     x="461"
+     y="328"
+     id="use7"
+     transform="matrix(1.59,0,0,1.59,12.56,-25.289505)" />
+  <use
+     xlink:href="#a"
+     x="333"
+     y="227"
+     id="use8"
+     transform="matrix(1.59,0,0,1.59,12.56,-25.289505)" />
+  <use
+     xlink:href="#a"
+     x="499"
+     y="227"
+     id="use9"
+     transform="matrix(1.59,0,0,1.59,12.56,-25.289505)" />
+</svg>
