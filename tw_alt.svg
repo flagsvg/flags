@@ -2,8 +2,8 @@
 <svg
    enable-background="new 0 0 900 600"
    height="600"
-   viewBox="0 0 900 600"
-   width="900"
+   viewBox="0 0 1000 600"
+   width="1000"
    version="1.1"
    id="svg23"
    sodipodi:docname="tw_alt.svg"
@@ -23,9 +23,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="0.5075"
-     inkscape:cx="450.2463"
-     inkscape:cy="300.49261"
+     inkscape:zoom="1.015"
+     inkscape:cx="382.75862"
+     inkscape:cy="340.39409"
      inkscape:window-width="2560"
      inkscape:window-height="1417"
      inkscape:window-x="3832"
@@ -35,18 +35,18 @@
   <clipPath
      id="a">
     <path
-       d="m0 0h899.963v600h-899.963z"
+       d="M 0,0 H 899.963 V 600 H 0 Z"
        id="path1" />
   </clipPath>
   <path
-     d="m -50.018,0 h 1000 v 600 h -1000 z"
+     d="M 0,0 H 1000 V 600 H 0 Z"
      fill="#ffffff"
      id="path2"
      style="stroke-width:1.05411" />
   <g
      clip-path="url(#a)"
      id="g23"
-     transform="matrix(1.11111,0,0,1.11111,-49.997556,-33.331444)">
+     transform="matrix(1.11111,0,0,1.11111,0.020444,-33.331444)">
     <g
        clip-rule="evenodd"
        fill-rule="evenodd"
